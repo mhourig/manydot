@@ -10,7 +10,8 @@ a networked drawing app
 * $ node server.js
 * go to browser => localhost:3000
 
-current build
+##current build
+
 ![enter](https://fabigan.files.wordpress.com/2016/09/nicknamestella.png?w=768)
 ![draw](https://fabigan.files.wordpress.com/2016/09/goodbyestella.png?w=768)
 
